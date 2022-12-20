@@ -1,0 +1,11 @@
+[
+        { "folder" : "entend_moi" , "director" : "Director" , "year" : 2016 , "category" : "fiction" , "name" : "Entend moi" , "nb_items" : 16 , "prefix" : "em" } ,  
+        { "folder" : "les_poux" , "director" : "Director" , "year" : 2016 , "category" : "commercial" ,"name" : "Les poux" , "nb_items" : 16 , "prefix" : "px"} ,  
+        { "folder" : "lucioles" , "director" : "Director" , "year" : 2016 , "category" : "music" ,"name" : "Lucioles" , "nb_items" : 18 , "prefix" : "lu"} ,  
+        { "folder" : "mirage" , "director" : "Director" , "year" : 2016 , "category" : "commercial" ,"name" : "Mirage" , "nb_items" : 18 , "prefix" : "mir"} ,  
+        { "folder" : "miss_chazelle" , "director" : "Director" , "year" : 2016 , "category" : "music" ,"name" : "Miss Chazelle" , "nb_items" : 19 , "prefix" : "mc"} ,  
+        { "folder" : "mpcha" , "director" : "Director" , "year" : 2016 , "category" : "fiction" ,"name" : "Mpcha" , "nb_items" : 18 , "prefix" : "mpcha"} ,  
+        { "folder" : "septembre" , "director" : "Director" , "year" : 2016 , "category" : "commercial" ,"name" : "Septembre" , "nb_items" : 11 , "prefix" : "sep"} ,  
+        { "folder" : "signature" , "director" : "Director" , "year" : 2016 , "category" : "music" ,"name" : "Signature" , "nb_items" : 18 , "prefix" : "sig"} ,  
+        { "folder" : "sombres_couleurs" , "director" : "Director" , "year" : 2016 , "category" : "fiction" ,"name" : "Sombres couleurs" , "nb_items" : 19 , "prefix" : "sc"}
+]
